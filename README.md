@@ -29,14 +29,40 @@ My focus is on bridging business needs, technical delivery, enterprise architect
 ![System Integration](https://img.shields.io/badge/System%20Integration-0A2540?style=flat)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-0A2540?style=flat)
 ![API Design](https://img.shields.io/badge/API%20Design-0A2540?style=flat)
+![API Security](https://img.shields.io/badge/API%20Security-0A2540?style=flat)
 ![OAuth](https://img.shields.io/badge/OAuth-0A2540?style=flat)
 ![Data Integration](https://img.shields.io/badge/Data%20Integration-0A2540?style=flat)
 ![Financial Integrations](https://img.shields.io/badge/Financial%20Integrations-0A2540?style=flat)
+![Payment Integrations](https://img.shields.io/badge/Payment%20Integrations-0A2540?style=flat)
+![Banking APIs](https://img.shields.io/badge/Banking%20APIs-0A2540?style=flat)
 ![Transaction Processing](https://img.shields.io/badge/Transaction%20Processing-0A2540?style=flat)
+
+---
+
+## Programming & Development Stack
+
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+
+---
+
+## Databases, Servers & Infrastructure
+
 ![Oracle Database](https://img.shields.io/badge/Oracle%20Database-F80000?style=flat&logo=oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Linux Server](https://img.shields.io/badge/Linux%20Server-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white)
 
 ---
 
