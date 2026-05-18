@@ -33,6 +33,12 @@ A sanitized case study based on a confidential enterprise integration initiative
 
 `.NET` `C#` `Oracle` `SQL` `REST APIs` `System Integration` `Data Migration` `Financial Systems` `GovTech` `Enterprise Architecture`
 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat)
+
 ## Connect
 
 - LinkedIn: https://www.linkedin.com/in/hamza-abu-jamous/
