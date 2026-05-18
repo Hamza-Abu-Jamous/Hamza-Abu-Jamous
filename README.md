@@ -23,22 +23,20 @@ My focus is on bridging business needs, technical delivery, enterprise architect
 
 ---
 
-## Core Capabilities
+## Technical Stack & Integration Focus
 
-![Digital Transformation](https://img.shields.io/badge/Digital%20Transformation-0A2540?style=flat)
-![GovTech](https://img.shields.io/badge/GovTech-0A2540?style=flat)
-![Program Management](https://img.shields.io/badge/Program%20Management-0A2540?style=flat)
-![Enterprise Architecture](https://img.shields.io/badge/Enterprise%20Architecture-0A2540?style=flat)
+![Enterprise Integration](https://img.shields.io/badge/Enterprise%20Integration-0A2540?style=flat)
 ![System Integration](https://img.shields.io/badge/System%20Integration-0A2540?style=flat)
-![Financial Systems](https://img.shields.io/badge/Financial%20Systems-0A2540?style=flat)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-0A2540?style=flat)
+![API Design](https://img.shields.io/badge/API%20Design-0A2540?style=flat)
 ![OAuth](https://img.shields.io/badge/OAuth-0A2540?style=flat)
+![Data Integration](https://img.shields.io/badge/Data%20Integration-0A2540?style=flat)
+![Financial Integrations](https://img.shields.io/badge/Financial%20Integrations-0A2540?style=flat)
+![Transaction Processing](https://img.shields.io/badge/Transaction%20Processing-0A2540?style=flat)
 ![Oracle Database](https://img.shields.io/badge/Oracle%20Database-F80000?style=flat&logo=oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![AI Automation](https://img.shields.io/badge/AI%20Automation-0A2540?style=flat)
-![Dashboards](https://img.shields.io/badge/Dashboards-0A2540?style=flat)
 
 ---
 
